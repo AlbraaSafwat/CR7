@@ -1,0 +1,12 @@
+img {
+  width: 500px;
+}
+body {
+  text-align: center;
+  font-family: 'Arial';
+  background: rgb(5, 124, 150);
+  color: rgb(0, 0, 0);
+}
+P{
+  color: rgba(129, 22, 22, 0.92);
+}
